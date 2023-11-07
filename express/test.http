@@ -1,0 +1,8 @@
+###
+GET http://localhost:33000/
+###
+GET http://localhost:33000/dates
+###
+GET http://localhost:33000/date
+###
+GET http://localhost:33000/gadgets
